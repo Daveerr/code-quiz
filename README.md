@@ -2,7 +2,7 @@
  
  ## This is a quiz about HTML, CSS, and JavaScript.
  
- ## The quiz has a timer of 15 seconds per question.
+ ## After hitting start button you will be shown quiz rules.
  
  ## Link to Quiz page [
 ](https://daveerr.github.io/code-quiz/) 
